@@ -1,4 +1,5 @@
 # SmartCrowd – Real-Time Physical Event Experience Platform
+https://physical-event-experiance.vercel.app/
 
 SmartCrowd is a hackathon-ready full-stack project that improves the physical event experience for attendees at large-scale venues such as stadiums, festivals, expos, and concerts.
 
